@@ -5,7 +5,7 @@
 # Project Description
 For my semester project I am interested in finding coorelations of data between the COVID-19 pandemic and the sales of bottled water from the Nestle coorperation. It is intuitive
 to think that because most familys and individuals are quarantining themselves in order to stay away form the virus that they would be buying more household products than
-usual during this time of crisit. We are well aware of the effect that COVID-19 has had on toilet paper sales, so it is my objective to detect similar trends, if any exist
+usual during this time of crisis. We are well aware of the effect that COVID-19 has had on toilet paper sales, so it is my objective to detect similar trends, if any exist
 concerning bottled water sales.
 
 ## Probelm Statement and Motivation
