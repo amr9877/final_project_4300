@@ -19,10 +19,10 @@ and comparing them should be a complicated and somewhat arduous task because fin
 confident that if patterns in the data exists, I will be able to find and compare them to draw clear conclusions to the effect of COVID-19 on bottle water sales.
 
 # Plan
-October/November - Aggregate data sets and clean them for comparison.
-November - Create code to fully display and understand data being compared.
-November/December - Finish project and polish with descriptions. Prepare to port project to website from Jupyter Notebook.
-December - Submit project with all findings and research.
+- October/November - Aggregate data sets and clean them for comparison.
+- November - Create code to fully display and understand data being compared.
+- November/December - Finish project and polish with descriptions. Prepare to port project to website from Jupyter Notebook.
+- December - Submit project with all findings and research.
 
 # References:
 - https://www.prnewswire.com/news-releases/bottled-beverages-see-rising-demand-amid-covid-19---popular-online-delivery-services-seeing-greater-orders-than-ever-before-301049570.html
